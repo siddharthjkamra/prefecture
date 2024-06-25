@@ -5,12 +5,3 @@
 body {
   font-family: NectoMono;
 }
-body {
-  text-align: center;
-}
-.mapcover {
-  margin: 0 auto;
-  background-color: none;
-  margin-right: 10px;
-  border-radius: 3px;
-}
