@@ -1,0 +1,16 @@
+@font-face {
+  font-family: NectoMono;
+  src: url(/files/fonts/NectoMono-Regular.woff2);
+}
+body {
+  font-family: NectoMono;
+}
+body {
+  text-align: center;
+}
+.mapcover {
+  margin: 0 auto;
+  background-color: none;
+  margin-right: 10px;
+  border-radius: 3px;
+}
